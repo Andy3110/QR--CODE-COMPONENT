@@ -1,0 +1,48 @@
+
+body{
+    background: hsl(212, 45%, 89%);
+    font-size: 15px 
+}
+.mainframe{
+    margin-top: 4rem;
+    margin-left: 25rem;
+    margin-right: 25rem;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
+    height: 26rem;
+    width: 17rem;
+   
+    }
+
+    
+
+img{
+    width: 250px;
+    height: 250px;
+    margin-top: 1rem;
+  margin-left: 0.7rem;
+  border-radius: 10px;
+    
+}
+
+.write-ups h1{
+color: black;
+font-size: 18px;
+margin-top: 1rem;
+text-align: center;
+margin-left: 2rem;
+margin-right: 2rem;
+
+
+}
+
+.write-ups p{
+    color: black;
+    font-size: small;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 2rem;
+margin-right: 2rem;
+
+    
+    }
